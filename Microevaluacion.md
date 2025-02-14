@@ -14,11 +14,22 @@ Al incio cree una carpeta de donde se crearia el contenedor
 
 ![CREACION DE ARCHIVO](code_1.png)
 
+```sh
+MariaDB [escuela]> CREATE TABLE MATERIAS (
+         id INT AUTO_INCREMENT,
+         nombreM VARCHAR(100),
+         PRIMARY KEY (id)
+       );
+```
 
 ## 2 Inserte datos en la tabla
 
 ![CREACION DE ARCHIVO](INSERTAR.png)
 
+```sh
+MariaDB [escuela]> INSERT INTO MATERIAS (nombreM)
+       VALUES ('Redes 2');
+```
 ## 3 Salio resultado
 
 ![CREACION DE ARCHIVO](REDE.png)
@@ -29,3 +40,5 @@ Al incio cree una carpeta de donde se crearia el contenedor
 <!-- ul  -->
 * No dio nungun error con los codigos
 * Si se entendio como se instalo
+
+
