@@ -4,7 +4,7 @@ Grupo que ejecuto: "lorelai" (jhamil)
 
 ![CREACION DE ARCHIVO](archivo.png)
 <!-- italic  -->
-Al incio cree una carpeta de donde se crearia el contenedor
+Al incio cree una carpeta de donde se guardara el contenedor
 
 ## despues todos los comandos que mostro en el git se ejecuto normal sin errores
 
