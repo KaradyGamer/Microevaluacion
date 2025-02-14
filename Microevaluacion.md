@@ -15,7 +15,7 @@ Al incio cree una carpeta de donde se crearia el contenedor
 ![CREACION DE ARCHIVO](code_1.png)
 
 
-## 2 Inserte un dato en la tabla
+## 2 Inserte datos en la tabla
 
 ![CREACION DE ARCHIVO](INSERTAR.png)
 
