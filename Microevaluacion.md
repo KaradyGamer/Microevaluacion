@@ -28,4 +28,4 @@ Al incio cree una carpeta de donde se crearia el contenedor
 
 <!-- ul  -->
 * No dio nungun error con los codigos
-* si se entendio como se instalo
+* Si se entendio como se instalo
